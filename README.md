@@ -1,4 +1,5 @@
-# research-toolkit-kidney-workshop# Research Toolkit — Surgical Anatomy of the Kidney
+# research-toolkit-kidney-workshop# 
+Research Toolkit — Surgical Anatomy of the Kidney
 
 An interactive, mobile-first web tool designed for medical students participating in the "Surgical Anatomy of the Kidney" workshop at the Department of Anatomy and Embryology, "Grigore T. Popa" University of Medicine and Pharmacy, Iași, Romania.
 
